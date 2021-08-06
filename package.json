@@ -1,0 +1,14 @@
+{
+  "main": "App.js",
+  "type": "module",
+  "scripts": {
+    "start": "node App"
+  },
+  "author": "Murathan Solmaz <murathansolmaz555@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.1"
+  }
+}
